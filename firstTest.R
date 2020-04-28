@@ -1,3 +1,3 @@
-print("No se lo que estoy haciendo")
+print("I'm really behind in this course")
 
 print("Now it lives on github")
